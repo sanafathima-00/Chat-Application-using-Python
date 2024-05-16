@@ -1,7 +1,6 @@
 # Chat Application using Pythom
 
 1. Server Side:
-<br>
 > The server-side code sets up a basic chat server using sockets.
 <br>
 > It listens for incoming connections on the specified `HOST` and `PORT`.
@@ -21,7 +20,6 @@
 <br>
 
 2. Client Side
-<br>
 > The client-side code connects to the same `HOST` and `PORT`.
 <br>
 > It creates two threads:
