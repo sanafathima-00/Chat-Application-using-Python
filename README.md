@@ -1,4 +1,5 @@
 # Chat Application using Pythom
+
 1. Server Side:
 <br>
 > The server-side code sets up a basic chat server using sockets.
