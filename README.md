@@ -19,7 +19,8 @@
 > The main loop accepts new connections and starts a thread for each client.
 <br>
 <br>
-2. Client Side:
+
+2. Client Side
 <br>
 > The client-side code connects to the same `HOST` and `PORT`.
 <br>
